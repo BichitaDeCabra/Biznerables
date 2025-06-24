@@ -1,0 +1,1 @@
+export const useLanguage = () => ({ t: (key) => key });

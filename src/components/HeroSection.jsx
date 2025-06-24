@@ -1,0 +1,1 @@
+export const HeroSection = () => <section className='text-center'>Hero</section>;
